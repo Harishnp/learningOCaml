@@ -1,0 +1,2 @@
+# learningOCaml
+Practice OCaml programming 
